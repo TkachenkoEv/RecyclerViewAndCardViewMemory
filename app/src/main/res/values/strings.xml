@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RecyclerViewAndCardViewMemory</string>
+    <string name="game_over">Игра закончена</string>
+    <string name="dev_value_msg_dialog" />
+    <string name="dialog_title">Игра окончена!</string>
+    <string name="dialog_msg">Время истекло</string>
+    <string name="positiv_button">Начать заново</string>
+    <string name="negative_button">Закрыть игру</string>
+    <string name="time_format">%02d:%02d</string>
+    <string name="min_moves_key_for_spr">minMoves</string>
+    <string name="min_time_key_for_spr">minTime</string>
+    <string name="dialog_msg_info_result">Ваш результат время: %s ходы: %s\nЛучший результат время: %s ходы: %s</string>
+    <string name="drawable_img">drawable/img</string>
+    <string name="count_column">4</string>
+</resources>
